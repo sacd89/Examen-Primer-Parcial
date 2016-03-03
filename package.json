@@ -1,0 +1,24 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "Examen Primer Parcial de la materia Desarrollo Rapido de Aplicaciones Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sacd89/Examen-Primer-Parcial.git"
+  },
+  "author": "Daniela Santillanes Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sacd89/Examen-Primer-Parcial/issues"
+  },
+  "homepage": "https://github.com/sacd89/Examen-Primer-Parcial#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "jade": "^1.11.0"
+  }
+}
